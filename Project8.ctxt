@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=t
+comment1.target=void\ initArray(char[][])
+comment2.params=brd
+comment2.target=void\ moveRed(char[][])
+comment3.params=brd
+comment3.target=void\ moveYellow(char[][])
+comment4.params=tbl
+comment4.target=void\ printArray(char[][])
+comment5.params=b
+comment5.target=boolean\ checkWin(char[][])
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=java.lang.String\ promptUser()
+comment2.params=ary
+comment2.target=void\ loadArray(java.lang.String[][])
+comment3.params=tbl
+comment3.target=void\ printArray(java.lang.String[][])
+comment4.params=
+comment4.target=void\ printLogo()
+comment5.params=in\ ary
+comment5.target=void\ translate(java.lang.String,\ java.lang.String[][])
+numComments=6
